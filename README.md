@@ -128,17 +128,7 @@ Dashboard filters include:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard-no filter.png)
-
----
-
-## 📁 Project Files
-
-| File                    | Description           |
-| ----------------------- | --------------------- |
-| Bike Sales Project.xlsx | Excel workbook        |
-| README.md               | Project documentation |
-| images/                 | Dashboard screenshots |
+![Dashboard](dashboard-nofilter.png)
 
 ---
 
