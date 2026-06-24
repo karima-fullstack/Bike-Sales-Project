@@ -128,7 +128,8 @@ Dashboard filters include:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard-nofilter.png)
+<img width="1160" height="641" alt="dashboard" src="https://github.com/user-attachments/assets/f835ec6a-2a02-48fc-b0e4-7ed0297aa729" />
+
 
 ---
 
