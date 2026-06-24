@@ -63,9 +63,9 @@ Created a new field called **Age Brackets** to categorize customers into age gro
 
 Example:
 
-* Adolescent
-* Middle Age
-* Old
+* Young 30-25
+* Middle Age 54-31
+* Old >54
 
 #### 4. Data Validation
 
@@ -128,7 +128,7 @@ Dashboard filters include:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard-no filter.png)
 
 ---
 
